@@ -1,5 +1,5 @@
 # angular-cli-bootstrap-4
-Projeto base de angular e bootstrap 4 configurado
+Projeto base de angular, scss e bootstrap 4 configurado
 
 # AngularBootstrap
 
